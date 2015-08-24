@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Moedas</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_bovespa">Indice Bovespa</string>
+    <string name="label_dolar">Dolar</string>
+    <string name="label_atualizacao">Atualização</string>
+    <string name="label_euro">Euro</string>
+    <string name="label_atualizar">Atualizar</string>
+</resources>
